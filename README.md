@@ -11,7 +11,7 @@ Burak Firik
 Here's a walkthrough of implemented user stories:
 
 
-<img src='https://github.com/burakfirik/EmojiDict/blob/master/emoji.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/burakfirik/Collector/blob/master/collector.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 Copyright 2017 Burak Firik
